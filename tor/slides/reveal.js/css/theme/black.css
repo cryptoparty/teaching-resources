@@ -1,0 +1,43 @@
+/**
+ * A simple theme for reveal.js presentations, similar
+ * to the default theme. The accent color is darkblue.
+ *
+ * This theme is Copyright (C) 2012 Owen Versteeg, https://github.com/StereotypicalApps. It is MIT licensed.
+ * reveal.js is Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
+ */
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+
+.reveal {
+background: rgba(50, 200, 90, 0.23);
+}
+
+.reveal h1 {
+
+    background: #fdfff0;
+}
+
+.reveal li,
+.reveal p {
+font-size: 40px;
+padding: 10px;
+}
+
+
+
+/*********************************************
+ * HEADERS
+ *********************************************/
+/*
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+ padding: 1%;
+}
+
+.reveal h1 {
+  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2); }
+*/

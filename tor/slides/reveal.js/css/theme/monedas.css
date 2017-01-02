@@ -1,0 +1,15 @@
+.reveal {
+background: lightgrey;
+}
+
+.reveal h1 {
+
+    background: lightgreen;
+}
+
+.reveal li,
+.reveal p {
+font-size: 35px;
+padding: 10px;
+}
+
